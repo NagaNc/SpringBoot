@@ -1,4 +1,4 @@
-# SpringBoot
+# SpringBoot Security with Oauth2 and jwt
 
 1. Spring security application will be hosted on port 1000
 2. Configure the database related properties in application.yml files
